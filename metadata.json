@@ -1,0 +1,5 @@
+{
+  "name": "ValuMate - DCF Stock Valuation",
+  "description": "A professional Discounted Cash Flow (DCF) valuation tool. Analyze stocks, estimate intrinsic value, and determine if a company is overvalued or undervalued using AI-assisted financial data.",
+  "requestFramePermissions": []
+}
